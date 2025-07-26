@@ -24,5 +24,5 @@ All climate data used in this study is publicly available:
 Code used to run the physiological model is available here: https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort
 
 ## Contact
-lucy.temple@unibe.ch
+Lucy Temple: lucy.temple@unibe.ch
 
