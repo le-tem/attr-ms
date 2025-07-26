@@ -1,8 +1,15 @@
 # Anthropogenic climate change amplifies risk of multiple sclerosis symptoms in Austria
-
+Quantify the impact of climate change on the risk of core temperature rise that elicit Uhthoff's
 (Temple et al., in prep)
 
 ## How to use this code
+Code used for the analyisis is available in /main
+
+The analysis is broken down into the following steps:
+1. Climate data preparation: data extraction, bias correction
+2. Climate attribution
+3. Physiological modeling: core rise analysis, max met analysis
+4. Visualisations and Results Tables
 
 ## Data availability
 All climate data used in this study is publicly available:
