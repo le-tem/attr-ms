@@ -6,10 +6,9 @@ Quantify the impact of climate change on the risk of core temperature rise that 
 Code used for the analyisis is available in /main
 
 The analysis is broken down into the following steps:
-1. Climate data preparation: data extraction, bias correction
-2. Climate attribution
+1. Climate data analysis and attribution
 3. Physiological modeling: core rise analysis, max met analysis
-4. Visualisations and Results Tables
+4. Visualisations, Analysis and Results Tables
 
 ## Data availability
 All climate data used in this study is publicly available:
